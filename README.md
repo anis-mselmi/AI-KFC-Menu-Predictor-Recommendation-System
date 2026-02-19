@@ -1,4 +1,8 @@
 # AI KFC Menu Predictor & Recommendation System 🍗🤖
+<p align="center">
+  <img src="image.png" alt="Project Logo" width="300">
+</p>
+
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)
