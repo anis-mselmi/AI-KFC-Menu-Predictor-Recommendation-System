@@ -1,0 +1,501 @@
+OrderID,Primary_Item,Side_Item,Time_Of_Day,Customer_Age
+1,Original Recipe Chicken,Mashed Potatoes,Lunch,46.0
+2,Zinger Burger,Mashed Potatoes,Afternoon Snack,57.0
+3,Hot Wings,Mashed Potatoes,Lunch,41.0
+4,Twister Wrap,Mashed Potatoes,Dinner,42.0
+5,Twister Wrap,Biscuits,Dinner,39.0
+6,Popcorn Chicken,Corn On The Cob,Dinner,21.0
+7,Original Recipe Chicken,Biscuits,Dinner,59.0
+8,Zinger Burger,Mashed Potatoes,Dinner,39.0
+9,Original Recipe Chicken,Corn On The Cob,Afternoon Snack,41.0
+10,Zinger Burger,Biscuits,Lunch,36.0
+11,Zinger Burger,Mashed Potatoes,Late Night,60.0
+12,Zinger Burger,Coleslaw,Lunch,56.0
+13,Original Recipe Chicken,Biscuits,Afternoon Snack,39.0
+14,Twister Wrap,Corn On The Cob,Lunch,41.0
+15,Twister Wrap,Biscuits,Late Night,40.0
+16,Zinger Burger,Fries,Lunch,59.0
+17,Zinger Burger,Fries,Lunch,43.0
+18,Zinger Burger,Coleslaw,Afternoon Snack,63.0
+19,Twister Wrap,Mashed Potatoes,Late Night,37.0
+20,Zinger Burger,Mashed Potatoes,Dinner,59.0
+21,Zinger Burger,Corn On The Cob,Dinner,26.0
+22,Twister Wrap,Mashed Potatoes,Dinner,65.0
+23,Original Recipe Chicken,Mashed Potatoes,Late Night,51.0
+24,Hot Wings,Corn On The Cob,Lunch,41.0
+25,Zinger Burger,Coleslaw,Afternoon Snack,50.0
+26,Popcorn Chicken,Mashed Potatoes,Dinner,41.0
+27,Zinger Burger,Mashed Potatoes,Late Night,31.0
+28,Zinger Burger,Fries,Lunch,49.0
+29,Hot Wings,Mashed Potatoes,Dinner,26.0
+30,Popcorn Chicken,Mashed Potatoes,Dinner,36.0
+31,Twister Wrap,Fries,Afternoon Snack,24.0
+32,Zinger Burger,Corn On The Cob,Lunch,52.0
+33,Original Recipe Chicken,Mashed Potatoes,Lunch,51.0
+34,Original Recipe Chicken,Mashed Potatoes,Lunch,41.0
+35,Zinger Burger,Fries,Late Night,57.0
+36,Original Recipe Chicken,Mashed Potatoes,Lunch,42.0
+37,Zinger Burger,Mashed Potatoes,Dinner,29.0
+38,Zinger Burger,Fries,Dinner,57.0
+39,Hot Wings,Fries,Lunch,28.0
+40,Zinger Burger,Biscuits,Dinner,20.0
+41,Original Recipe Chicken,Mashed Potatoes,Afternoon Snack,61.0
+42,Zinger Burger,Mashed Potatoes,Dinner,46.0
+43,Original Recipe Chicken,Corn On The Cob,Late Night,65.0
+44,Zinger Burger,Mashed Potatoes,Dinner,32.0
+45,Original Recipe Chicken,Corn On The Cob,Afternoon Snack,37.0
+46,Zinger Burger,Biscuits,Lunch,48.0
+47,Hot Wings,Mashed Potatoes,Dinner,30.0
+48,Zinger Burger,Mashed Potatoes,Lunch,54.0
+49,Twister Wrap,Fries,Lunch,47.0
+50,Original Recipe Chicken,Mashed Potatoes,Late Night,42.0
+51,Zinger Burger,Fries,Afternoon Snack,44.0
+52,Twister Wrap,Mashed Potatoes,Lunch,30.0
+53,Hot Wings,Mashed Potatoes,Lunch,26.0
+54,Original Recipe Chicken,Mashed Potatoes,Dinner,21.0
+55,Twister Wrap,Mashed Potatoes,Lunch,41.0
+56,Original Recipe Chicken,Fries,Dinner,24.0
+57,Zinger Burger,Mashed Potatoes,Afternoon Snack,51.0
+58,Hot Wings,Fries,Afternoon Snack,36.0
+59,Original Recipe Chicken,Coleslaw,Late Night,41.0
+60,Zinger Burger,Mashed Potatoes,Dinner,46.0
+61,Popcorn Chicken,Mashed Potatoes,Dinner,27.0
+62,Zinger Burger,Mashed Potatoes,Dinner,23.0
+63,Zinger Burger,Mashed Potatoes,Lunch,32.0
+64,Twister Wrap,Fries,Afternoon Snack,40.0
+65,Hot Wings,Biscuits,Lunch,44.0
+66,Original Recipe Chicken,Mashed Potatoes,Dinner,41.0
+67,Popcorn Chicken,Fries,Dinner,33.0
+68,Zinger Burger,Corn On The Cob,Dinner,23.0
+69,Twister Wrap,Mashed Potatoes,Afternoon Snack,19.0
+70,Popcorn Chicken,Fries,Dinner,24.0
+71,Original Recipe Chicken,Fries,Lunch,59.0
+72,Zinger Burger,Mashed Potatoes,Afternoon Snack,27.0
+73,Hot Wings,Biscuits,Lunch,36.0
+74,Zinger Burger,Mashed Potatoes,Afternoon Snack,48.0
+75,Twister Wrap,Biscuits,Late Night,26.0
+76,Zinger Burger,Coleslaw,Lunch,48.0
+77,Zinger Burger,Mashed Potatoes,Dinner,18.0
+78,Twister Wrap,Fries,Late Night,19.0
+79,Zinger Burger,Fries,Dinner,27.0
+80,Zinger Burger,Fries,Afternoon Snack,64.0
+81,Zinger Burger,Corn On The Cob,Afternoon Snack,45.0
+82,Hot Wings,Coleslaw,Dinner,36.0
+83,Original Recipe Chicken,Fries,Late Night,25.0
+84,Twister Wrap,Fries,Lunch,41.0
+85,Zinger Burger,Corn On The Cob,Dinner,57.0
+86,Twister Wrap,Corn On The Cob,Late Night,25.0
+87,Original Recipe Chicken,Fries,Lunch,49.0
+88,Zinger Burger,Mashed Potatoes,Dinner,19.0
+89,Original Recipe Chicken,Corn On The Cob,Late Night,54.0
+90,Popcorn Chicken,Mashed Potatoes,Lunch,27.0
+91,Hot Wings,Mashed Potatoes,Afternoon Snack,18.0
+92,Popcorn Chicken,Coleslaw,Late Night,33.0
+93,Twister Wrap,Corn On The Cob,Dinner,29.0
+94,Zinger Burger,Mashed Potatoes,Lunch,23.0
+95,Zinger Burger,Biscuits,Afternoon Snack,41.0
+96,Hot Wings,Fries,Lunch,41.0
+97,Zinger Burger,Mashed Potatoes,Dinner,50.0
+98,Zinger Burger,Coleslaw,Dinner,50.0
+99,Zinger Burger,Mashed Potatoes,Dinner,42.0
+100,Twister Wrap,Biscuits,Dinner,20.0
+101,Popcorn Chicken,Coleslaw,Lunch,41.0
+102,Zinger Burger,Fries,Lunch,19.0
+103,Original Recipe Chicken,Biscuits,Lunch,22.0
+104,Original Recipe Chicken,Mashed Potatoes,Late Night,64.0
+105,Zinger Burger,Mashed Potatoes,Dinner,24.0
+106,Original Recipe Chicken,Corn On The Cob,Dinner,65.0
+107,Popcorn Chicken,Coleslaw,Lunch,26.0
+108,Popcorn Chicken,Corn On The Cob,Dinner,41.0
+109,Zinger Burger,Coleslaw,Lunch,59.0
+110,Original Recipe Chicken,Biscuits,Lunch,61.0
+111,Zinger Burger,Coleslaw,Dinner,62.0
+112,Zinger Burger,Fries,Lunch,29.0
+113,Original Recipe Chicken,Fries,Dinner,22.0
+114,Zinger Burger,Mashed Potatoes,Dinner,47.0
+115,Hot Wings,Fries,Late Night,41.0
+116,Zinger Burger,Coleslaw,Dinner,30.0
+117,Zinger Burger,Fries,Lunch,38.0
+118,Original Recipe Chicken,Fries,Lunch,50.0
+119,Zinger Burger,Mashed Potatoes,Late Night,52.0
+120,Hot Wings,Mashed Potatoes,Dinner,20.0
+121,Zinger Burger,Coleslaw,Dinner,30.0
+122,Original Recipe Chicken,Mashed Potatoes,Lunch,21.0
+123,Hot Wings,Fries,Late Night,39.0
+124,Zinger Burger,Mashed Potatoes,Dinner,41.0
+125,Popcorn Chicken,Mashed Potatoes,Lunch,43.0
+126,Original Recipe Chicken,Mashed Potatoes,Dinner,42.0
+127,Zinger Burger,Mashed Potatoes,Lunch,29.0
+128,Hot Wings,Biscuits,Dinner,49.0
+129,Zinger Burger,Mashed Potatoes,Lunch,51.0
+130,Popcorn Chicken,Mashed Potatoes,Late Night,23.0
+131,Zinger Burger,Mashed Potatoes,Dinner,23.0
+132,Original Recipe Chicken,Biscuits,Lunch,29.0
+133,Hot Wings,Fries,Late Night,38.0
+134,Zinger Burger,Corn On The Cob,Lunch,38.0
+135,Twister Wrap,Coleslaw,Dinner,37.0
+136,Popcorn Chicken,Biscuits,Late Night,63.0
+137,Zinger Burger,Mashed Potatoes,Lunch,62.0
+138,Popcorn Chicken,Corn On The Cob,Dinner,46.0
+139,Zinger Burger,Mashed Potatoes,Dinner,41.0
+140,Zinger Burger,Mashed Potatoes,Afternoon Snack,40.0
+141,Zinger Burger,Fries,Lunch,45.0
+142,Zinger Burger,Fries,Lunch,21.0
+143,Original Recipe Chicken,Mashed Potatoes,Dinner,41.0
+144,Zinger Burger,Fries,Lunch,41.0
+145,Original Recipe Chicken,Mashed Potatoes,Afternoon Snack,65.0
+146,Zinger Burger,Mashed Potatoes,Afternoon Snack,19.0
+147,Hot Wings,Corn On The Cob,Late Night,56.0
+148,Twister Wrap,Fries,Lunch,46.0
+149,Zinger Burger,Biscuits,Lunch,41.0
+150,Twister Wrap,Fries,Lunch,41.0
+151,Original Recipe Chicken,Biscuits,Afternoon Snack,41.0
+152,Original Recipe Chicken,Biscuits,Lunch,54.0
+153,Original Recipe Chicken,Fries,Dinner,41.0
+154,Original Recipe Chicken,Corn On The Cob,Lunch,46.0
+155,Zinger Burger,Coleslaw,Lunch,41.0
+156,Popcorn Chicken,Corn On The Cob,Dinner,22.0
+157,Popcorn Chicken,Mashed Potatoes,Dinner,51.0
+158,Original Recipe Chicken,Mashed Potatoes,Lunch,38.0
+159,Zinger Burger,Corn On The Cob,Late Night,33.0
+160,Popcorn Chicken,Mashed Potatoes,Afternoon Snack,19.0
+161,Hot Wings,Mashed Potatoes,Dinner,49.0
+162,Zinger Burger,Mashed Potatoes,Lunch,53.0
+163,Zinger Burger,Fries,Lunch,34.0
+164,Twister Wrap,Coleslaw,Afternoon Snack,31.0
+165,Zinger Burger,Biscuits,Afternoon Snack,36.0
+166,Twister Wrap,Corn On The Cob,Afternoon Snack,49.0
+167,Hot Wings,Mashed Potatoes,Dinner,26.0
+168,Zinger Burger,Corn On The Cob,Lunch,46.0
+169,Zinger Burger,Biscuits,Afternoon Snack,63.0
+170,Original Recipe Chicken,Fries,Dinner,23.0
+171,Zinger Burger,Mashed Potatoes,Afternoon Snack,38.0
+172,Original Recipe Chicken,Fries,Lunch,63.0
+173,Original Recipe Chicken,Mashed Potatoes,Lunch,41.0
+174,Twister Wrap,Fries,Late Night,37.0
+175,Twister Wrap,Fries,Lunch,63.0
+176,Original Recipe Chicken,Mashed Potatoes,Dinner,62.0
+177,Zinger Burger,Biscuits,Lunch,41.0
+178,Zinger Burger,Biscuits,Dinner,25.0
+179,Zinger Burger,Biscuits,Late Night,26.0
+180,Twister Wrap,Corn On The Cob,Lunch,49.0
+181,Twister Wrap,Coleslaw,Dinner,41.0
+182,Zinger Burger,Corn On The Cob,Lunch,41.0
+183,Original Recipe Chicken,Fries,Lunch,53.0
+184,Zinger Burger,Coleslaw,Dinner,23.0
+185,Twister Wrap,Mashed Potatoes,Late Night,41.0
+186,Original Recipe Chicken,Corn On The Cob,Afternoon Snack,63.0
+187,Zinger Burger,Corn On The Cob,Lunch,51.0
+188,Zinger Burger,Mashed Potatoes,Lunch,44.0
+189,Original Recipe Chicken,Biscuits,Late Night,22.0
+190,Zinger Burger,Biscuits,Afternoon Snack,38.0
+191,Twister Wrap,Coleslaw,Lunch,46.0
+192,Hot Wings,Corn On The Cob,Lunch,51.0
+193,Original Recipe Chicken,Biscuits,Afternoon Snack,53.0
+194,Twister Wrap,Corn On The Cob,Lunch,29.0
+195,Zinger Burger,Fries,Dinner,26.0
+196,Popcorn Chicken,Mashed Potatoes,Lunch,21.0
+197,Original Recipe Chicken,Biscuits,Dinner,51.0
+198,Twister Wrap,Fries,Dinner,28.0
+199,Original Recipe Chicken,Mashed Potatoes,Lunch,63.0
+200,Zinger Burger,Biscuits,Dinner,51.0
+201,Twister Wrap,Fries,Dinner,23.0
+202,Original Recipe Chicken,Fries,Afternoon Snack,58.0
+203,Original Recipe Chicken,Biscuits,Afternoon Snack,35.0
+204,Zinger Burger,Mashed Potatoes,Dinner,37.0
+205,Zinger Burger,Mashed Potatoes,Afternoon Snack,23.0
+206,Zinger Burger,Coleslaw,Late Night,28.0
+207,Zinger Burger,Fries,Afternoon Snack,55.0
+208,Original Recipe Chicken,Biscuits,Afternoon Snack,60.0
+209,Zinger Burger,Mashed Potatoes,Afternoon Snack,56.0
+210,Original Recipe Chicken,Mashed Potatoes,Dinner,54.0
+211,Zinger Burger,Mashed Potatoes,Lunch,41.0
+212,Zinger Burger,Fries,Late Night,23.0
+213,Zinger Burger,Mashed Potatoes,Afternoon Snack,41.0
+214,Original Recipe Chicken,Fries,Late Night,54.0
+215,Twister Wrap,Biscuits,Dinner,31.0
+216,Twister Wrap,Mashed Potatoes,Late Night,44.0
+217,Twister Wrap,Coleslaw,Late Night,19.0
+218,Zinger Burger,Coleslaw,Dinner,58.0
+219,Original Recipe Chicken,Mashed Potatoes,Dinner,59.0
+220,Popcorn Chicken,Mashed Potatoes,Afternoon Snack,48.0
+221,Zinger Burger,Coleslaw,Lunch,61.0
+222,Popcorn Chicken,Fries,Lunch,47.0
+223,Hot Wings,Mashed Potatoes,Lunch,41.0
+224,Original Recipe Chicken,Mashed Potatoes,Lunch,41.0
+225,Twister Wrap,Biscuits,Afternoon Snack,48.0
+226,Original Recipe Chicken,Coleslaw,Lunch,39.0
+227,Original Recipe Chicken,Corn On The Cob,Dinner,38.0
+228,Zinger Burger,Coleslaw,Dinner,38.0
+229,Original Recipe Chicken,Mashed Potatoes,Late Night,40.0
+230,Zinger Burger,Corn On The Cob,Dinner,26.0
+231,Zinger Burger,Mashed Potatoes,Lunch,50.0
+232,Zinger Burger,Mashed Potatoes,Lunch,38.0
+233,Original Recipe Chicken,Mashed Potatoes,Lunch,25.0
+234,Twister Wrap,Biscuits,Lunch,33.0
+235,Popcorn Chicken,Mashed Potatoes,Lunch,21.0
+236,Zinger Burger,Biscuits,Late Night,42.0
+237,Original Recipe Chicken,Fries,Dinner,44.0
+238,Original Recipe Chicken,Coleslaw,Lunch,28.0
+239,Twister Wrap,Corn On The Cob,Afternoon Snack,54.0
+240,Zinger Burger,Corn On The Cob,Late Night,30.0
+241,Zinger Burger,Biscuits,Dinner,49.0
+242,Popcorn Chicken,Coleslaw,Afternoon Snack,47.0
+243,Zinger Burger,Mashed Potatoes,Dinner,37.0
+244,Zinger Burger,Corn On The Cob,Lunch,23.0
+245,Zinger Burger,Mashed Potatoes,Late Night,50.0
+246,Hot Wings,Coleslaw,Lunch,33.0
+247,Original Recipe Chicken,Mashed Potatoes,Late Night,40.0
+248,Hot Wings,Fries,Late Night,41.0
+249,Zinger Burger,Mashed Potatoes,Lunch,56.0
+250,Zinger Burger,Mashed Potatoes,Lunch,59.0
+251,Original Recipe Chicken,Mashed Potatoes,Lunch,36.0
+252,Popcorn Chicken,Biscuits,Dinner,24.0
+253,Twister Wrap,Fries,Dinner,34.0
+254,Hot Wings,Corn On The Cob,Dinner,43.0
+255,Twister Wrap,Biscuits,Afternoon Snack,43.0
+256,Zinger Burger,Biscuits,Dinner,41.0
+257,Zinger Burger,Mashed Potatoes,Lunch,41.0
+258,Zinger Burger,Coleslaw,Late Night,22.0
+259,Zinger Burger,Corn On The Cob,Lunch,46.0
+260,Zinger Burger,Biscuits,Late Night,35.0
+261,Zinger Burger,Corn On The Cob,Lunch,57.0
+262,Original Recipe Chicken,Mashed Potatoes,Late Night,25.0
+263,Zinger Burger,Coleslaw,Lunch,24.0
+264,Zinger Burger,Corn On The Cob,Dinner,39.0
+265,Popcorn Chicken,Mashed Potatoes,Afternoon Snack,41.0
+266,Zinger Burger,Biscuits,Lunch,30.0
+267,Zinger Burger,Mashed Potatoes,Lunch,43.0
+268,Original Recipe Chicken,Coleslaw,Lunch,20.0
+269,Popcorn Chicken,Fries,Dinner,41.0
+270,Original Recipe Chicken,Mashed Potatoes,Dinner,48.0
+271,Original Recipe Chicken,Biscuits,Lunch,27.0
+272,Twister Wrap,Biscuits,Lunch,50.0
+273,Zinger Burger,Mashed Potatoes,Lunch,57.0
+274,Original Recipe Chicken,Coleslaw,Dinner,43.0
+275,Twister Wrap,Mashed Potatoes,Dinner,65.0
+276,Zinger Burger,Biscuits,Late Night,55.0
+277,Original Recipe Chicken,Mashed Potatoes,Lunch,50.0
+278,Zinger Burger,Biscuits,Dinner,63.0
+279,Zinger Burger,Mashed Potatoes,Late Night,48.0
+280,Zinger Burger,Mashed Potatoes,Dinner,41.0
+281,Hot Wings,Coleslaw,Late Night,25.0
+282,Twister Wrap,Fries,Late Night,55.0
+283,Zinger Burger,Mashed Potatoes,Late Night,64.0
+284,Twister Wrap,Fries,Lunch,58.0
+285,Hot Wings,Biscuits,Dinner,41.0
+286,Zinger Burger,Fries,Dinner,59.0
+287,Popcorn Chicken,Coleslaw,Lunch,55.0
+288,Hot Wings,Corn On The Cob,Dinner,64.0
+289,Original Recipe Chicken,Fries,Afternoon Snack,41.0
+290,Zinger Burger,Biscuits,Lunch,51.0
+291,Original Recipe Chicken,Fries,Dinner,57.0
+292,Zinger Burger,Mashed Potatoes,Dinner,42.0
+293,Original Recipe Chicken,Mashed Potatoes,Dinner,61.0
+294,Original Recipe Chicken,Mashed Potatoes,Lunch,54.0
+295,Original Recipe Chicken,Biscuits,Lunch,25.0
+296,Zinger Burger,Mashed Potatoes,Dinner,46.0
+297,Twister Wrap,Mashed Potatoes,Lunch,27.0
+298,Zinger Burger,Mashed Potatoes,Dinner,31.0
+299,Hot Wings,Coleslaw,Afternoon Snack,57.0
+300,Popcorn Chicken,Mashed Potatoes,Afternoon Snack,65.0
+301,Zinger Burger,Fries,Afternoon Snack,63.0
+302,Original Recipe Chicken,Mashed Potatoes,Late Night,31.0
+303,Twister Wrap,Fries,Dinner,60.0
+304,Zinger Burger,Fries,Late Night,42.0
+305,Hot Wings,Coleslaw,Late Night,29.0
+306,Popcorn Chicken,Mashed Potatoes,Dinner,52.0
+307,Original Recipe Chicken,Fries,Late Night,40.0
+308,Zinger Burger,Mashed Potatoes,Lunch,64.0
+309,Hot Wings,Mashed Potatoes,Lunch,62.0
+310,Zinger Burger,Biscuits,Lunch,48.0
+311,Zinger Burger,Mashed Potatoes,Lunch,33.0
+312,Zinger Burger,Fries,Dinner,37.0
+313,Hot Wings,Mashed Potatoes,Dinner,37.0
+314,Original Recipe Chicken,Coleslaw,Lunch,63.0
+315,Popcorn Chicken,Fries,Lunch,63.0
+316,Hot Wings,Biscuits,Dinner,48.0
+317,Original Recipe Chicken,Fries,Lunch,64.0
+318,Original Recipe Chicken,Coleslaw,Late Night,25.0
+319,Zinger Burger,Mashed Potatoes,Afternoon Snack,52.0
+320,Popcorn Chicken,Fries,Dinner,43.0
+321,Hot Wings,Mashed Potatoes,Afternoon Snack,27.0
+322,Hot Wings,Mashed Potatoes,Afternoon Snack,36.0
+323,Twister Wrap,Fries,Lunch,23.0
+324,Zinger Burger,Corn On The Cob,Afternoon Snack,46.0
+325,Twister Wrap,Fries,Afternoon Snack,65.0
+326,Hot Wings,Mashed Potatoes,Late Night,30.0
+327,Zinger Burger,Mashed Potatoes,Dinner,35.0
+328,Original Recipe Chicken,Fries,Lunch,62.0
+329,Hot Wings,Corn On The Cob,Lunch,24.0
+330,Zinger Burger,Biscuits,Late Night,55.0
+331,Original Recipe Chicken,Mashed Potatoes,Afternoon Snack,21.0
+332,Zinger Burger,Biscuits,Lunch,51.0
+333,Hot Wings,Mashed Potatoes,Late Night,32.0
+334,Zinger Burger,Mashed Potatoes,Dinner,41.0
+335,Zinger Burger,Coleslaw,Dinner,63.0
+336,Zinger Burger,Fries,Lunch,61.0
+337,Popcorn Chicken,Corn On The Cob,Afternoon Snack,18.0
+338,Hot Wings,Mashed Potatoes,Lunch,28.0
+339,Popcorn Chicken,Biscuits,Dinner,48.0
+340,Original Recipe Chicken,Fries,Late Night,30.0
+341,Zinger Burger,Mashed Potatoes,Lunch,36.0
+342,Zinger Burger,Coleslaw,Dinner,59.0
+343,Zinger Burger,Corn On The Cob,Afternoon Snack,41.0
+344,Zinger Burger,Coleslaw,Lunch,59.0
+345,Original Recipe Chicken,Mashed Potatoes,Lunch,52.0
+346,Original Recipe Chicken,Coleslaw,Lunch,20.0
+347,Popcorn Chicken,Mashed Potatoes,Dinner,29.0
+348,Zinger Burger,Mashed Potatoes,Late Night,29.0
+349,Zinger Burger,Biscuits,Dinner,20.0
+350,Zinger Burger,Biscuits,Dinner,43.0
+351,Zinger Burger,Mashed Potatoes,Late Night,29.0
+352,Popcorn Chicken,Mashed Potatoes,Late Night,36.0
+353,Zinger Burger,Mashed Potatoes,Late Night,18.0
+354,Popcorn Chicken,Corn On The Cob,Lunch,56.0
+355,Zinger Burger,Mashed Potatoes,Lunch,39.0
+356,Hot Wings,Mashed Potatoes,Afternoon Snack,59.0
+357,Zinger Burger,Mashed Potatoes,Dinner,49.0
+358,Zinger Burger,Corn On The Cob,Afternoon Snack,26.0
+359,Zinger Burger,Mashed Potatoes,Dinner,47.0
+360,Twister Wrap,Coleslaw,Dinner,25.0
+361,Twister Wrap,Biscuits,Afternoon Snack,64.0
+362,Original Recipe Chicken,Mashed Potatoes,Lunch,34.0
+363,Zinger Burger,Fries,Dinner,18.0
+364,Zinger Burger,Biscuits,Dinner,36.0
+365,Zinger Burger,Fries,Lunch,30.0
+366,Popcorn Chicken,Biscuits,Lunch,58.0
+367,Twister Wrap,Biscuits,Dinner,45.0
+368,Popcorn Chicken,Mashed Potatoes,Late Night,23.0
+369,Popcorn Chicken,Mashed Potatoes,Lunch,24.0
+370,Zinger Burger,Mashed Potatoes,Afternoon Snack,26.0
+371,Zinger Burger,Mashed Potatoes,Dinner,33.0
+372,Popcorn Chicken,Fries,Lunch,41.0
+373,Zinger Burger,Fries,Afternoon Snack,46.0
+374,Zinger Burger,Mashed Potatoes,Lunch,39.0
+375,Twister Wrap,Mashed Potatoes,Afternoon Snack,64.0
+376,Hot Wings,Fries,Lunch,34.0
+377,Popcorn Chicken,Corn On The Cob,Late Night,62.0
+378,Original Recipe Chicken,Corn On The Cob,Lunch,60.0
+379,Zinger Burger,Mashed Potatoes,Afternoon Snack,37.0
+380,Zinger Burger,Corn On The Cob,Lunch,61.0
+381,Original Recipe Chicken,Mashed Potatoes,Afternoon Snack,63.0
+382,Twister Wrap,Fries,Dinner,62.0
+383,Twister Wrap,Fries,Dinner,36.0
+384,Original Recipe Chicken,Mashed Potatoes,Afternoon Snack,32.0
+385,Zinger Burger,Mashed Potatoes,Late Night,26.0
+386,Hot Wings,Mashed Potatoes,Lunch,47.0
+387,Twister Wrap,Mashed Potatoes,Afternoon Snack,56.0
+388,Twister Wrap,Mashed Potatoes,Lunch,62.0
+389,Zinger Burger,Fries,Late Night,48.0
+390,Twister Wrap,Mashed Potatoes,Dinner,60.0
+391,Zinger Burger,Fries,Lunch,33.0
+392,Zinger Burger,Coleslaw,Afternoon Snack,56.0
+393,Hot Wings,Mashed Potatoes,Dinner,23.0
+394,Original Recipe Chicken,Coleslaw,Late Night,51.0
+395,Hot Wings,Mashed Potatoes,Lunch,22.0
+396,Zinger Burger,Fries,Afternoon Snack,25.0
+397,Zinger Burger,Mashed Potatoes,Lunch,41.0
+398,Zinger Burger,Mashed Potatoes,Dinner,50.0
+399,Zinger Burger,Mashed Potatoes,Afternoon Snack,52.0
+400,Zinger Burger,Coleslaw,Lunch,38.0
+401,Zinger Burger,Mashed Potatoes,Afternoon Snack,46.0
+402,Original Recipe Chicken,Biscuits,Lunch,31.0
+403,Hot Wings,Fries,Lunch,49.0
+404,Popcorn Chicken,Mashed Potatoes,Afternoon Snack,41.0
+405,Hot Wings,Coleslaw,Late Night,21.0
+406,Zinger Burger,Fries,Dinner,50.0
+407,Original Recipe Chicken,Mashed Potatoes,Late Night,54.0
+408,Zinger Burger,Fries,Dinner,41.0
+409,Zinger Burger,Mashed Potatoes,Late Night,37.0
+410,Zinger Burger,Fries,Dinner,43.0
+411,Zinger Burger,Coleslaw,Lunch,18.0
+412,Zinger Burger,Corn On The Cob,Lunch,55.0
+413,Original Recipe Chicken,Biscuits,Dinner,41.0
+414,Zinger Burger,Corn On The Cob,Lunch,62.0
+415,Twister Wrap,Coleslaw,Lunch,41.0
+416,Hot Wings,Mashed Potatoes,Lunch,22.0
+417,Zinger Burger,Coleslaw,Dinner,48.0
+418,Zinger Burger,Coleslaw,Late Night,41.0
+419,Zinger Burger,Mashed Potatoes,Late Night,26.0
+420,Zinger Burger,Mashed Potatoes,Dinner,64.0
+421,Zinger Burger,Biscuits,Dinner,44.0
+422,Twister Wrap,Fries,Dinner,42.0
+423,Zinger Burger,Fries,Dinner,42.0
+424,Zinger Burger,Fries,Lunch,61.0
+425,Original Recipe Chicken,Fries,Dinner,52.0
+426,Zinger Burger,Biscuits,Late Night,40.0
+427,Zinger Burger,Fries,Dinner,52.0
+428,Original Recipe Chicken,Fries,Dinner,26.0
+429,Hot Wings,Mashed Potatoes,Lunch,32.0
+430,Zinger Burger,Mashed Potatoes,Dinner,19.0
+431,Hot Wings,Corn On The Cob,Dinner,47.0
+432,Zinger Burger,Mashed Potatoes,Lunch,52.0
+433,Zinger Burger,Mashed Potatoes,Dinner,42.0
+434,Zinger Burger,Mashed Potatoes,Dinner,33.0
+435,Hot Wings,Mashed Potatoes,Afternoon Snack,27.0
+436,Zinger Burger,Coleslaw,Afternoon Snack,64.0
+437,Popcorn Chicken,Mashed Potatoes,Lunch,20.0
+438,Twister Wrap,Corn On The Cob,Lunch,44.0
+439,Zinger Burger,Mashed Potatoes,Afternoon Snack,19.0
+440,Zinger Burger,Mashed Potatoes,Dinner,22.0
+441,Popcorn Chicken,Corn On The Cob,Lunch,20.0
+442,Hot Wings,Mashed Potatoes,Dinner,61.0
+443,Zinger Burger,Biscuits,Dinner,21.0
+444,Zinger Burger,Mashed Potatoes,Lunch,20.0
+445,Zinger Burger,Biscuits,Late Night,32.0
+446,Hot Wings,Fries,Dinner,21.0
+447,Hot Wings,Mashed Potatoes,Late Night,36.0
+448,Twister Wrap,Biscuits,Dinner,64.0
+449,Zinger Burger,Mashed Potatoes,Afternoon Snack,54.0
+450,Zinger Burger,Coleslaw,Lunch,61.0
+451,Original Recipe Chicken,Mashed Potatoes,Afternoon Snack,33.0
+452,Original Recipe Chicken,Fries,Afternoon Snack,27.0
+453,Original Recipe Chicken,Biscuits,Dinner,51.0
+454,Twister Wrap,Mashed Potatoes,Late Night,37.0
+455,Zinger Burger,Biscuits,Late Night,53.0
+456,Original Recipe Chicken,Mashed Potatoes,Lunch,65.0
+457,Popcorn Chicken,Biscuits,Lunch,58.0
+458,Original Recipe Chicken,Corn On The Cob,Late Night,53.0
+459,Hot Wings,Mashed Potatoes,Lunch,40.0
+460,Zinger Burger,Mashed Potatoes,Lunch,60.0
+461,Zinger Burger,Coleslaw,Late Night,51.0
+462,Original Recipe Chicken,Corn On The Cob,Afternoon Snack,44.0
+463,Twister Wrap,Mashed Potatoes,Afternoon Snack,37.0
+464,Hot Wings,Fries,Lunch,52.0
+465,Twister Wrap,Biscuits,Lunch,32.0
+466,Twister Wrap,Biscuits,Late Night,63.0
+467,Popcorn Chicken,Fries,Late Night,47.0
+468,Zinger Burger,Mashed Potatoes,Lunch,53.0
+469,Zinger Burger,Biscuits,Dinner,44.0
+470,Twister Wrap,Fries,Lunch,26.0
+471,Original Recipe Chicken,Fries,Lunch,34.0
+472,Original Recipe Chicken,Mashed Potatoes,Lunch,59.0
+473,Original Recipe Chicken,Biscuits,Lunch,41.0
+474,Zinger Burger,Corn On The Cob,Afternoon Snack,41.0
+475,Twister Wrap,Fries,Afternoon Snack,41.0
+476,Zinger Burger,Corn On The Cob,Lunch,30.0
+477,Original Recipe Chicken,Corn On The Cob,Lunch,41.0
+478,Zinger Burger,Biscuits,Dinner,56.0
+479,Twister Wrap,Mashed Potatoes,Lunch,22.0
+480,Popcorn Chicken,Coleslaw,Afternoon Snack,55.0
+481,Zinger Burger,Fries,Lunch,53.0
+482,Original Recipe Chicken,Biscuits,Dinner,31.0
+483,Zinger Burger,Mashed Potatoes,Dinner,39.0
+484,Twister Wrap,Fries,Late Night,18.0
+485,Popcorn Chicken,Fries,Lunch,30.0
+486,Zinger Burger,Mashed Potatoes,Afternoon Snack,25.0
+487,Original Recipe Chicken,Coleslaw,Lunch,48.0
+488,Zinger Burger,Biscuits,Dinner,62.0
+489,Zinger Burger,Fries,Lunch,31.0
+490,Twister Wrap,Mashed Potatoes,Afternoon Snack,33.0
+491,Original Recipe Chicken,Mashed Potatoes,Lunch,36.0
+492,Original Recipe Chicken,Corn On The Cob,Late Night,52.0
+493,Popcorn Chicken,Mashed Potatoes,Dinner,37.0
+494,Original Recipe Chicken,Fries,Lunch,50.0
+495,Zinger Burger,Biscuits,Lunch,47.0
+496,Zinger Burger,Mashed Potatoes,Dinner,41.0
+497,Zinger Burger,Biscuits,Dinner,48.0
+498,Original Recipe Chicken,Mashed Potatoes,Lunch,38.0
+499,Zinger Burger,Biscuits,Dinner,41.0
+500,Zinger Burger,Fries,Dinner,20.0
