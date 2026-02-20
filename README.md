@@ -1,4 +1,4 @@
-# Jupyter Fried Code 🍗🤖
+<h1 align="center">Jupyter Fried Code 🍗🤖</h1>
 <p align="center">
   <img src="image.png" alt="Project Logo" width="300">
 </p>
